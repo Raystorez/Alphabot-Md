@@ -8,17 +8,17 @@ global.APIs = {
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
-global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+global . APIKey  = {
+	'https://api.zeeoneofc.xyz' : 'V12' ,   // login https://api.zeeoneofc.xyz untuk mendapatkan apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
 global.autoread = false // auto read message
 global.autobio = true 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
-
-//language
+global . autoblok212  =  false  //ubah jadi true biar nmr 212 di blok sama bot
+kami
+//bahasa
 //Available in indonesia , english & spanyol 
 //You can request others language 
 global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
